@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CprH7kpplrQzx6Qu2YyeWDEESLKBUMksuCmT02BoZZ8pVc7jqdO8X9T6fd0wfCyV44eRq/KOeW1PAGPm21rI5w==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\BrainfuckInterpreter\\BrainfuckInterpreter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wkala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
